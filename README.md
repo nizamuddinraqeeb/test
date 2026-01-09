@@ -23,7 +23,3 @@ This is **not a production project**—it exists purely for learning and experim
 - **GitHub** (Remote Repository Hosting)
 - **Command Line / Terminal**
 - Optional: VS Code / Any IDE
-
----
-
-## 📂 Project Structure
