@@ -1,4 +1,4 @@
-# Git & GitHub Learning Test Project
+# Git and GitHub Learning Test Project
 only for experimentation
 
 ## 🛠️ Tools & Technologies
