@@ -6,7 +6,6 @@ It focuses on version control fundamentals, collaboration concepts, and real-wor
 
 This is **not a production project**—it exists purely for learning and experimentation.
 
----
 
 ## 🎯 Objectives
 - Understand Git version control basics
