@@ -5,4 +5,4 @@ only for experimentation
 - **Git** (Local Version Control)
 - **GitHub** (Remote Repository Hosting)
 - **Command Line / Terminal**
-- Optional: VS Code / Any IDE
+- Optional: VS Code / Any IDE .
